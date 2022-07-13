@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.declipsonator.frostboater.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "FrostWalkerEnchantmentMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
